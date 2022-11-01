@@ -2,12 +2,12 @@
 
 
 
-🎓 I'm a senior frontend developer.   
+🎓 I'm an upcoming frontend developer.   
 🔭 In my spare time I'm working on open source projects   
-🌱 I’m currently learning Next.js  and TypeScript   
-💬 I would love to talk about open source    
-👨‍💻 My portfolio is available at https://peterime.netlify.app/  
-📫 How to reach me: peterime600@gmail.com    
+🌱 I’m currently learning frontend development  
+💬 I love working on protoype and design to bring life to them  
+👨‍💻 
+📫 How to reach me: peterokolie177@gmail.com   
 
 
 
